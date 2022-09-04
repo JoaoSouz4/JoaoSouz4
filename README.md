@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+<div>
+      <h1>#Olá, Me chamo João Souza.</h1>
+      Iniciando no desenvolvimento web <br>
+      Atualmente estudo o framework React 
+      
+  </div>
 
 <div align="space-around">
   <a href="https://github.com/JoaoSouz4">
