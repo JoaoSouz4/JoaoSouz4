@@ -2,7 +2,7 @@
 
 <div>
       <h1>#Olá, Me chamo João Souza.</h1>
-      Iniciando no desenvolvimento web <br>
+      :computer: Iniciando no desenvolvimento web  <br>
       Atualmente estudo o framework React 
       
   </div>
