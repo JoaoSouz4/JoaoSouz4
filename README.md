@@ -5,7 +5,6 @@
       :computer:  Iniciando no desenvolvimento <strong>web</strong>;  <br>
       :notebook:  Atualmente estudo o framework <strong>React</strong> e estou me aprofundando em <strong>JS</strong>; <br>
       :pencil2:   Utilizo meu conhecimento de ilustração digital para somar com o <strong>front-end</strong>; </br>
-      
       <br>
   </div>
 
