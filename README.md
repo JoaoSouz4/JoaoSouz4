@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/JoaoSouz4
 ">
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoSouz4)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
   <div style="display: inline_block" align="center"><br>
