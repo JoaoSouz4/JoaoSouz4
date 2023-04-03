@@ -1,9 +1,9 @@
 
 
 <div>
-      <h1>#Olá, Me chamo João Souza.</h1>
-      :computer:  Iniciando no desenvolvimento <strong>web</strong>;  <br>
-      :notebook:  Atualmente estudo o framework <strong>React</strong> e estou me aprofundando em <strong>JS</strong>; <br>
+      <h3>#Olá, Me chamo João Souza.</h3>
+      :computer:  Desenvolvo aplicações web;  <br>
+      :notebook:  Atualmente uso a biblioteca <strong>React</strong> com JavaScript e TypeScript>; <br>
       <br>
   </div>
 
@@ -12,8 +12,8 @@
 ">
         
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaosouz4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouz4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaosouz4&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSouz4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 
