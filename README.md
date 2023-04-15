@@ -2,8 +2,8 @@
 
 <div>
       <h3>#Olá, Me chamo João Souza.</h3>
-      :computer:  Desenvolvo aplicações web;  <br>
-      :notebook:  Atualmente uso a biblioteca <strong>React</strong> com JavaScript e TypeScript>; <br>
+      :computer:  Desenvolvo aplicações web com React;  <br>
+      :notebook:  Estudando TypeScript >; <br>
       <br>
   </div>
 
