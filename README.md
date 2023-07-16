@@ -4,7 +4,7 @@
       <h3>#Olá, Me chamo João Souza.</h3>
       :computer:  Desenvolvo aplicações web com <strong>React</strong>; <br>
       :notebook:  Estudando <strong>TypeScript</strong> para backend Nodejs; <br>
-      :notebook:  Cursando Sistemas de informação na Estacio: <strong>1/8</strong>; <br>
+      :notebook:  Cursando Sistemas de informação na Estacio: <strong>2/8</strong>; <br>
       <br>
  </div>
 
