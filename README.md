@@ -3,7 +3,7 @@
 <div>
       <h3>#Olá, Me chamo João Souza.</h3>
       :computer:  Desenvolvo aplicações web com <strong>React</strong>; <br>
-      :notebook:  Estudando <strong>TypeScript</strong> para backend; <br>
+      :notebook:  Estudando <strong>TypeScript</strong> para backend Nodejs; <br>
       :notebook:  Cursando Sistemas de informação na Estacio: <strong>1/8</strong>; <br>
       <br>
  </div>
@@ -21,9 +21,11 @@
        
 </div>
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
+  
   <img align="center" alt="Rafa-Mongo" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
